@@ -1,0 +1,1 @@
+Hello from C++ and Arweave! This data will live forever (or at least until I close ArLocal).
